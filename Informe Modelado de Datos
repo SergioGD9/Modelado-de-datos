@@ -18,7 +18,7 @@ El modelo representa un sistema de gestión de pedidos de productos, con relacio
 
 ## 📊 Diagrama Entidad-Relación (ERD)
 
-![Modelo ERD](./img/modelo_relacional.png)
+![Modelo ERD](./img/Display_1.png)
 
 Este diagrama visualiza las entidades principales y sus relaciones. Las líneas entre tablas indican claves foráneas.
 
